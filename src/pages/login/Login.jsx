@@ -1,0 +1,45 @@
+import image from '../../assets/images/login/login.svg'
+
+const Login = () => {
+  return (
+    <div className="hero min-h-screen container mx-auto">
+      <div className="hero-content flex-col lg:flex-row">
+        <div className='w-1/2'>
+          <img src={image} alt="" />
+        </div>
+        <div className="lg:w-1/2 shadow-2xl bg-base-100 py-20 px-6 rounded-lg">
+          <form className="card-body">
+            <h1 className="text-4xl font-bold text-[#444] text-center mb-12">Login</h1>
+            <div className="form-control">
+              <label className="label">
+                <span className="font-semibold text-lg text-[#444] mb-2">Email</span>
+              </label>
+              <input
+                type="email"
+                placeholder="Your Email"
+                className="input input-bordered mb-4"
+                required
+              />
+            </div>
+            <div className="form-control">
+              <label className="label">
+                <span className="font-semibold text-lg text-[#444] mb-2">Password</span>
+              </label>
+              <input
+                type="password"
+                placeholder="Your Password"
+                className="input input-bordered"
+                required
+              />
+            </div>
+            <div className="form-control mt-7">
+              <input className="btn bg-[#FF3811] font-semibold text-xl text-white hover:bg-orange-400" type="submit" value="Sign In" />
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default Login;
