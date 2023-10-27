@@ -12,7 +12,7 @@ const Banner = () => {
       {/* slide 1  */}
       <div id="slide1" className="carousel-item relative w-full">
         <img src={image1} className="w-full lg:h-[700px]" />
-        <div className="absolute gap-10 text-white bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0.00)] w-11/12 lg:w-1/3 h-[700px] pl-8 md:pl-16 lg:pl-28 text-center lg:text-left">
+        <div className="absolute gap-10 text-white bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0.00)] w-11/12 lg:w-1/3 lg:h-[700px] pl-8 md:pl-16 lg:pl-28 text-center lg:text-left">
           <h2 className="font-bold text-2xl md:text-3xl lg:text-6xl mt-4 md:mt-20 lg:mt-32 mb-2 md:mb-6 lg:mb-7">
             Affordable Price For Car Servicing
           </h2>
@@ -48,7 +48,7 @@ const Banner = () => {
       {/* slide 2  */}
       <div id="slide2" className="carousel-item relative w-full">
         <img src={image2} className="w-full lg:h-[700px]" />
-        <div className="absolute gap-10 text-white bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0.00)] w-11/12 lg:w-1/3 h-[700px] pl-8 md:pl-16 lg:pl-28 text-center lg:text-left">
+        <div className="absolute gap-10 text-white bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0.00)] w-11/12 lg:w-1/3 lg:h-[700px] pl-8 md:pl-16 lg:pl-28 text-center lg:text-left">
           <h2 className="font-bold text-2xl md:text-3xl lg:text-6xl mt-4 md:mt-20 lg:mt-32 mb-2 md:mb-6 lg:mb-7">
             Affordable Price For Car Servicing
           </h2>
@@ -84,7 +84,7 @@ const Banner = () => {
       {/* slide 3  */}
       <div id="slide3" className="carousel-item relative w-full">
         <img src={image3} className="w-full lg:h-[700px]" />
-        <div className="absolute gap-10 text-white bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0.00)] w-11/12 lg:w-1/3 h-[700px] pl-8 md:pl-16 lg:pl-28 text-center lg:text-left">
+        <div className="absolute gap-10 text-white bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0.00)] w-11/12 lg:w-1/3 lg:h-[700px] pl-8 md:pl-16 lg:pl-28 text-center lg:text-left">
           <h2 className="font-bold text-2xl md:text-3xl lg:text-6xl mt-4 md:mt-20 lg:mt-32 mb-2 md:mb-6 lg:mb-7">
             Affordable Price For Car Servicing
           </h2>
@@ -120,7 +120,7 @@ const Banner = () => {
       {/* slide 4  */}
       <div id="slide4" className="carousel-item relative w-full">
         <img src={image4} className="w-full lg:h-[700px]" />
-        <div className="absolute gap-10 text-white bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0.00)] w-11/12 lg:w-1/3 h-[700px] pl-8 md:pl-16 lg:pl-28 text-center lg:text-left">
+        <div className="absolute gap-10 text-white bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0.00)] w-11/12 lg:w-1/3 lg:h-[700px] pl-8 md:pl-16 lg:pl-28 text-center lg:text-left">
           <h2 className="font-bold text-2xl md:text-3xl lg:text-6xl mt-4 md:mt-20 lg:mt-32 mb-2 md:mb-6 lg:mb-7">
             Affordable Price For Car Servicing
           </h2>
@@ -156,7 +156,7 @@ const Banner = () => {
       {/* slide 5  */}
       <div id="slide5" className="carousel-item relative w-full">
         <img src={image5} className="w-full lg:h-[700px]" />
-        <div className="absolute gap-10 text-white bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0.00)] w-11/12 lg:w-1/3 h-[700px] pl-8 md:pl-16 lg:pl-28 text-center lg:text-left">
+        <div className="absolute gap-10 text-white bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0.00)] w-11/12 lg:w-1/3 lg:h-[700px] pl-8 md:pl-16 lg:pl-28 text-center lg:text-left">
           <h2 className="font-bold text-2xl md:text-3xl lg:text-6xl mt-4 md:mt-20 lg:mt-32 mb-2 md:mb-6 lg:mb-7">
             Affordable Price For Car Servicing
           </h2>
@@ -192,7 +192,7 @@ const Banner = () => {
       {/* slide 6  */}
       <div id="slide6" className="carousel-item relative w-full">
         <img src={image6} className="w-full lg:h-[700px]" />
-        <div className="absolute gap-10 text-white bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0.00)] w-11/12 lg:w-1/3 h-[700px] pl-8 md:pl-16 lg:pl-28 text-center lg:text-left">
+        <div className="absolute gap-10 text-white bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0.00)] w-11/12 lg:w-1/3 lg:h-[700px] pl-8 md:pl-16 lg:pl-28 text-center lg:text-left">
           <h2 className="font-bold text-2xl md:text-3xl lg:text-6xl mt-4 md:mt-20 lg:mt-32 mb-2 md:mb-6 lg:mb-7">
             Affordable Price For Car Servicing
           </h2>
