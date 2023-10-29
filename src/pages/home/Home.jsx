@@ -1,6 +1,7 @@
 import About from "./About";
 import Banner from "./Banner";
 import Services from "./service/Services";
+import Footer from "../shared/footer/Footer"
 
 const Home = () => {
     return (
@@ -8,6 +9,7 @@ const Home = () => {
             <Banner></Banner>
             <About></About>
             <Services></Services>
+            <Footer></Footer>
         </div>
     );
 };
